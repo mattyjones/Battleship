@@ -1,0 +1,5 @@
+This program is released up the GPL v2.
+
+8.18.11
+
+The program compiles fine but as of 8.18.11, it seg faults after letting you pick your ships.  This was orginally written in BSD for windows and now I am compiling it in Linux so who knows where the error is.  Moost likely a single char error.  I will get to it as time allows.
