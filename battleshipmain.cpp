@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------------/
  *																		  /
- *Project: Project 2 BattleShip											  /
+ *Project: BattleShip											  /
  *File: BattleShipMain.cpp												  /
  *																		  /
  *Abstract:																  /
